@@ -5,7 +5,7 @@ tags={
 	"Events"
 	"Gameplay"
 }
-path="mod/PaxBritannicaRedux"
+
 replace_path = "common/ai_equipment"
 replace_path = "common/ai_focuses"
 replace_path = "common/ai_strategy"
